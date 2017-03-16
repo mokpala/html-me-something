@@ -1,0 +1,23 @@
+body {
+	background-color: #A9A9A9;
+}
+
+ul.wonders li {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+img {
+    height: 600px;
+    width: 900px;
+	display: block;
+    margin: auto;
+}
+
+#title {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
